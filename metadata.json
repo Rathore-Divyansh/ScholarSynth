@@ -1,0 +1,5 @@
+{
+  "name": "ScholarSynth",
+  "description": "A research paper analysis tool that extracts objectives, gaps, datasets, methodologies, and conclusions using Gemini 3 Pro and Flash.",
+  "requestFramePermissions": []
+}
